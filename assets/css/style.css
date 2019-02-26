@@ -1,0 +1,10 @@
+body{
+    background-image: url('./../images/background.jpg');
+    background-size: 100%;
+}
+
+#About{
+    background-color: whitesmoke;
+    margin: 2%;
+    line-height: 2rem;
+}
