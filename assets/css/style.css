@@ -19,3 +19,20 @@ body{
     background-color: whitesmoke;
     color: teal;
 }
+
+#name{
+    color: white;
+    background-color: teal;
+    font-size: 25px;
+    text-align: center;
+}
+
+  .card-img{
+      height: 30%;
+      width: 30%;
+  }
+
+  #projects{
+      background-color: whitesmoke;
+      padding: 2%;
+  }
